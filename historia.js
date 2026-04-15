@@ -1,3 +1,5 @@
+const prompt = require("prompt-sync")();
+
 console.log("Estas caminando por un pasillo oscuro y encontrás una puerta...");
 
 let opcion1 = prompt("Ves una puerta y una ventana ¿a donde vas? 1 puerta/ 2 ventana");
